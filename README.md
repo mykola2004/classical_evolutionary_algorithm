@@ -1,7 +1,7 @@
 The goal of the project was to implement classical genetic algorithm for minimization and maximization of functions of multiple arguments.
 
 TO RUN ONE MUST HAVE INSTALLED: 
-python; libraries: matplotlib, math, numpy, random, time, tkinter
+python; libraries: matplotlib, math, numpy, random, time, tkinter  
 After installing all of that, it is enough to copy the repository locally and run the python file: GUI.py
 
 Features of the algorithm: 
